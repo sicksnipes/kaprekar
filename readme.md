@@ -3,6 +3,9 @@
 Calculating Kaprekar Numbers:  
 https://mathworld.wolfram.com/KaprekarNumber.html
 
+
+Ignoring Numbers that have the right side beginning with "0".
+
 # How to Use:
 1. Change Start and End Variable
 2. Wait for Calculation
